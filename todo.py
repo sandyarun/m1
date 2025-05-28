@@ -92,5 +92,5 @@ btn_delete.pack(side=tk.LEFT, padx=5, pady=5)
 
 init_db()
 refresh_list()
-
 root.mainloop()
+
